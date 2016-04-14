@@ -12,6 +12,7 @@
     "mocha": "^2.4.5"
   },
   "dependencies": {
+    "kafka-node": "^0.3.2",
     "minimist": "^1.2.0",
     "optimist": "^0.6.1"
   }
